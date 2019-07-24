@@ -2,6 +2,7 @@
 
 ## PD Materials  
 _These pebls include the slides and sample code for PD. It will be updated daily._
+- [PD Materials: Day 1](https://demo.peblio.co/pebl/vFj5_NK0y)
 
 
 ## A Guide to Using Peblio 
