@@ -13,6 +13,10 @@ _The curriculum and worksheets are built using the Peblio platform. Peblio pages
 - [Uploading images in Peblio](https://demo.peblio.co/pebl/5qrWMaoi6)
 - [Loading Gifs in p5](https://demo.peblio.co/pebl/b6F-rrWDF)
 
+## A Guide to Teaching CS
+_This pebl includes some suggestions for classroom practices. It is by no means exhaustive and should be used to find practices that you think will be effective in your classroom._
+- [CS Teaching Guide](https://demo.peblio.co/pebl/rMb6jcnem)
+
 ## Instructional Videos 
 _The coding train is am amazing resource for p5 instructional videos. Dan Shiffman is amazing and you can learn anything from his channel._
 
